@@ -9,8 +9,8 @@ Esta  web nos permite registrar usuarios en nuestra base de datso MySQL
 Creación, lectura, actualización y eliminación de registros.
 Conexión y gestión de base de datos MySQL.
 Seguridad y manejo de errores.
-Requisitos
-Indica los requisitos necesarios para ejecutar el proyecto, como:
+
+# Requisitos
 
 Servidor web ( Apache).
 
